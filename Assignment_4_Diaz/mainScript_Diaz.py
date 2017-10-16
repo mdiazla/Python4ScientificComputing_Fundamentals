@@ -1,7 +1,7 @@
 Tin=20
 Tout=-4.8
 Adoor=2.2
-Aroof=20
+Aroof=200
 Uroof=0.25
 Awindow=36
 Adoor=2.2
